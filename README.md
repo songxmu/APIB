@@ -1,5 +1,8 @@
-# Automatic Network Pruning via Information Bottleneck Minimization.
+# Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lasso under Information Bottleneck Principle
 
+> Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lasso under Information Bottleneck Principle
+> Song Guo, Lei Zhang, Xiawu Zheng, Yan Wang, Yuchao Li, Fei Chao, ShengChuan Zhang, Chenglin Wu, Rongrong Ji
+> ICCV 2023
 
 ### Model Pruning
 
