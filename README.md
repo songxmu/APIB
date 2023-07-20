@@ -108,7 +108,7 @@ Additionally, we provide the pre-trained models used in our experiments.
 | [ResNet56](https://drive.google.com/file/d/18EbAD6-E-t1Dk-x2tKkoWfJ86I3iXgFa/view?usp=share_link)
 
 ### ImageNet:
- [ResNet50](https://drive.google.com/file/d/1C73Qfvst09XtSbw_X77qLhMrnV4Rn1Uh/view?usp=drive_link)
+ [ResNet50](https://drive.google.com/file/d/1C73Qfvst09XtSbw_X77qLhMrnV4Rn1Uh/view?usp=sharing)
 
 ## Acknowledgments
 
