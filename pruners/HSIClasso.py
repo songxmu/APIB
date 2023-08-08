@@ -97,14 +97,14 @@ def kernel_Laplace(b, X):
 def HSIC_lasso_pruning(X, Y, W, alpha=1e-6, threshold=1,debug=False):
     b, c, l = X.shape
 
-    K = kernel_Gaussian(b, X)
+    K = kernel_Laplace(b, X)
     
     K_ba=centering(K) #(c_in,N,N)
     K_ba=K_ba.reshape(c,-1)
     K_ba = K_ba.T
 
     
-    L = kernel_Gaussian(b, Y) 
+    L = kernel_Laplace(b, Y) 
     L_ba=centering(L)
     L_ba=L_ba.reshape(-1)#.numpy()#N*N
 
