@@ -100,9 +100,9 @@ Additionally, we provide the pre-trained models used in our experiments.
 
 ### CIFAR-10:
  [Vgg-16](https://drive.google.com/file/d/1gIeELUSnopEbFesdioxx0WSxs0jUQd16/view?usp=sharing) 
-| [ResNet56](https://drive.google.com/file/d/1smOu2BHaU8-ngwv4RMpULKQlvKCrqqO9/view?usp=sharing) 
+| [ResNet56](https://drive.google.com/file/d/1sdUdg3ZgRfEmgKl4ld2ZzG1UecR-MnrQ/view?usp=sharing) 
 | [ResNet110](https://drive.google.com/file/d/1smOu2BHaU8-ngwv4RMpULKQlvKCrqqO9/view?usp=sharing)  
-| [GoogLeNet](https://drive.google.com/file/d/1smOu2BHaU8-ngwv4RMpULKQlvKCrqqO9/view?usp=sharing) 
+| [GoogLeNet](https://drive.google.com/file/d/1q9VlFYKbgv5Ma_XSgvPEKZDuXI_oidTD/view?usp=sharing) 
 
 ### ImageNet:
  [ResNet50](https://drive.google.com/file/d/1C73Qfvst09XtSbw_X77qLhMrnV4Rn1Uh/view?usp=sharing)
